@@ -3,7 +3,9 @@
 Names and Student IDs:
 
 Osamah ALQahtaini 101179283
+
 Mohamad ELhreich 101212579
+
 Naya ALmoudareys 101173126
 
 
@@ -16,18 +18,26 @@ Video:
 
 
 This file contains:
+
 1- ConversionDatabaseStructures.jpg
+
 2- ER_diagram.jpg
+
 3- Normalization.pdf
+
 4- Database_diagram_finalOutput.jpg
+
 5- DDL.sql
+
 6- Sql.sql
+
 7- README.txt
 
 
 
 
 In ER_diagram file:
+
 In this file we have created the entity relationship diagram for our database, explains the relationship among the tables:
 
 The relationship between the entities:
@@ -80,26 +90,37 @@ DASHBOARD and REDEMPTION: partial /partial because REDEMPTION can exist without 
 
 
 
+
 In ConversionDatabaseStructures file:
+
 In Conversion the database diagram, at first, we had to revise our ER model and the attributes of each entity. We started by creating a table for each entity and list all of the attributes. After that we had to connect those table to show their connection.
 
 
 
 
+
+
+
 In Normalization file:
+
 At the start, we were creating the tables and populating them with attributes. We had to check if any of our variables are multi values or a composite value. After that was done, we were able to confirm that we were at 1NF. Our next step was to check if all the attributes will be defined with our primary key and only with it. Once that was done, we were able to confirm that we are in 2nf and if we weren’t we had to decomposition the data to get it into 2NF. Finally, we had to check if there were transitive dependency. We did that by listing our attributes and seeing if there is any dependency between them , and if there was, we decomposed it by creating a new table  thus it became 3NF.
 
 
 
 
+
+
 In Database_diagram_finalOutput file:
+
 When it came to the Database Diagram after the Normalization, we had to check what tables were created while we did the normalization to add them to our data base diagram. After that we had to add those tables with their attributes and connect them to present the relationship that’s between the new tables and the original tables that we had.
 
 
 
 
 In DDL file:
+
 at the beginning, we had to understand the requirement and identify the tables , attributes with their data types and the relationship between them. Then we broke down the requirements into sections to clearly identify the tables that are required. In order to create the table correctly, we had to identify the relationship among them in order to place them in the right order. 
+
 
 In this file you can see that we have created 20 tables for the whole Health and Fitness Club database system. From registering the members to assign trainers to manage the gym through the administration.
 
