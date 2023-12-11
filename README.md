@@ -21,7 +21,7 @@ Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 - [Normalization](#Normalization)
 - [Database diagram final output](#Database_diagram_finalOutput) 
 - [DDL.sql](#DDL)
-- [SQL.sql](#SQL) 
+- [queirs.sql](#SQL) 
 
 
 
@@ -187,8 +187,8 @@ system. From registering the members to assign trainers to manage the gym throug
 
 
 
-## <a name = "SQL.sql file" ></a>SQL
-In SQL file:
+## <a name = "queirs.sql file" ></a>SQL
+In queirs file:
     In this file we have made queries “insert, select, and update” to sign up members and let them enjoy the 
 gyms features also assign trainers and admins in the gym and we gave them their values, then we selected 
 values and updated some to test the tables and the database system, also, to show you our system and how it 
