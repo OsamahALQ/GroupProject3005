@@ -7,14 +7,14 @@
 | Mohamad ELhreich  | 101212579  |
 |  Naya ALmoudareys  | 101173126 | 
 
-# links
+## links
 GitHub link: https://github.com/OsamahALQ/GroupProject3005
 
 
 Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 
-# Table of Contents 
+## Table of Contents 
 - [Files](#Files) 
 - [In ER diagram file](#ER) 
 - [Conversion Database Structures file](#ConversionDatabaseStructures)
