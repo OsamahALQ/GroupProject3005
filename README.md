@@ -42,7 +42,7 @@ This file contains:
 
 
 
-## <a name = "ER" ></a>ER diagram file
+## <a name = "ER diagram file" ></a>ER
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
