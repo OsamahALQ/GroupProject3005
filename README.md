@@ -176,7 +176,7 @@ original tables that we had.
 
 
 
-## <a name = "DDL.sql file" ></a>DDL
+## <a name = "DDL" ></a>DDL.sql file
 In DDL file:
     at the beginning, we had to understand the requirement and identify the tables , attributes with their 
 data types and the relationship between them. Then we broke down the requirements into sections to clearly 
