@@ -10,7 +10,7 @@
 # Table of Contents 
 - [Files](#Files) 
 - [In ER_diagram file](#ER) 
-  * [Documentation Responsibilities](#Documentation-responsibilities)
+  * [ConversionDatabaseStructures file](#ConversionDatabaseStructures)
   * [Implementation Responsibilities](#Implementation)
 - [.h Files](#h-Files) 
 - [.cpp Files](#cpp-Files)
@@ -139,7 +139,7 @@ many members.
 
 
 
-
+## <a name = "ConversionDatabaseStructures" ></a>ConversionDatabaseStructures files
 In ConversionDatabaseStructures file:
     In Conversion the database diagram, at first, we had to revise our ER model and the attributes of each 
 entity. We started by creating a table for each entity and list all of the attributes. After that we had to 
