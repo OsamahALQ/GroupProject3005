@@ -165,7 +165,7 @@ decomposed it by creating a new table  thus it became 3NF.
 
 
 
-## <a name = "Database diagram final output file" ></a>Database diagram finalOutput
+## <a name = "Database diagram final output file" ></a>Database_diagram_finalOutput
 In Database_diagram_finalOutput file:
     When it came to the Database Diagram after the Normalization, we had to check what tables were created 
 while we did the normalization to add them to our data base diagram. After that we had to add those tables 
