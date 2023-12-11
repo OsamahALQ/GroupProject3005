@@ -139,7 +139,7 @@ many members.
 
 
 
-## <a name = "ConversionDatabaseStructures" ></a>ConversionDatabaseStructures files
+## <a name = "ConversionDatabaseStructures" ></a>ConversionDatabaseStructures
 In ConversionDatabaseStructures file:
     In Conversion the database diagram, at first, we had to revise our ER model and the attributes of each 
 entity. We started by creating a table for each entity and list all of the attributes. After that we had to 
