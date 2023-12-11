@@ -40,7 +40,7 @@ This file contains:
 
 
 
-## <a name = "ER_diagram file" ></a>ER
+## <a name = "ER diagram file" ></a>ER 
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
@@ -145,7 +145,7 @@ many members.
 
 
 
-## <a name = "ConversionDatabaseStructures file" ></a>ConversionDatabaseStructures
+## <a name = "Conversion Database Structures file" ></a>ConversionDatabaseStructures
 In ConversionDatabaseStructures file:
     In Conversion the database diagram, at first, we had to revise our ER model and the attributes of each 
 entity. We started by creating a table for each entity and list all of the attributes. After that we had to 
@@ -165,7 +165,7 @@ decomposed it by creating a new table  thus it became 3NF.
 
 
 
-## <a name = "Database_diagram_finalOutput file" ></a>Database_diagram_finalOutput
+## <a name = "Database diagram final output file" ></a>Database_diagram_finalOutput
 In Database_diagram_finalOutput file:
     When it came to the Database Diagram after the Normalization, we had to check what tables were created 
 while we did the normalization to add them to our data base diagram. After that we had to add those tables 
