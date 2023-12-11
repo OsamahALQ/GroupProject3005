@@ -6,12 +6,23 @@
 | Mohamad ELhreich  | 101212579  |
 |  Naya ALmoudareys  | 101173126 | 
 
+
+# Table of Contents 
+- [Files](#Files) 
+- [Team's Work](#Documentation) 
+  * [Documentation Responsibilities](#Documentation-responsibilities)
+  * [Implementation Responsibilities](#Implementation)
+- [.h Files](#h-Files) 
+- [.cpp Files](#cpp-Files)
+- [Test Scenario](#Test-Scenario) 
+
+
+
 GitHub link: https://github.com/OsamahALQ/GroupProject3005
 Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 
-
-
+## <a name = "Files" ></a>Files
 This file contains:
     1- ConversionDatabaseStructures.jpg
     2- ER_diagram.jpg
