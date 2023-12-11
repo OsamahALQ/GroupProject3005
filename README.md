@@ -42,7 +42,7 @@ This file contains:
 
 
 
-## <a name = "ER diagram file" ></a>ER 
+## <a name = "ER" ></a>ER diagram file
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
@@ -176,7 +176,7 @@ original tables that we had.
 
 
 
-## <a name = "DDL" ></a>DDL.sql file
+## <a name = "DDL" ></a>DDL
 In DDL file:
     at the beginning, we had to understand the requirement and identify the tables , attributes with their 
 data types and the relationship between them. Then we broke down the requirements into sections to clearly 
