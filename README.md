@@ -1,4 +1,6 @@
-# COMP 3005 Group Project
+## COMP 3005 Group Project
+
+# Members
 
 | Student name  | ID number |
 | ------------- | ------------- |
