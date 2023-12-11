@@ -187,7 +187,7 @@ system. From registering the members to assign trainers to manage the gym throug
 
 
 
-## <a name = "queirs.sql file" ></a>queirs.sql
+## <a name = "queirs" ></a>queirs.sql
 In queirs file:
     In this file we have made queries “insert, select, and update” to sign up members and let them enjoy the 
 gyms features also assign trainers and admins in the gym and we gave them their values, then we selected 
