@@ -1,10 +1,10 @@
-Names and Student IDs:
-    Osamah ALQahtaini 101179283
-    Mohamad ELhreich 101212579
-    Naya ALmoudareys 101173126
+# COMP 3005 Group Project
 
-
-
+| Student name  | ID number |
+| ------------- | ------------- |
+| Osamah ALQahtaini | 101179283  |
+| Mohamad ELhreich  | 101212579  |
+|  Naya ALmoudareys  | 101173126 | 
 
 GitHub link: https://github.com/OsamahALQ/GroupProject3005
 Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
