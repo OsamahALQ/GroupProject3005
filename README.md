@@ -16,7 +16,7 @@ Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 ## Table of Contents 
 - [Files](#Files) 
-- [In ER diagram file](#ER) 
+- [ER diagram file](#ER) 
 - [Conversion Database Structures file](#ConversionDatabaseStructures)
 - [Normalization](#Normalization)
 - [Database diagram final output](#Database_diagram_finalOutput) 
@@ -42,7 +42,7 @@ This file contains:
 
 
 
-## <a name = "ER diagram file" ></a>ER
+## <a name = "ER" ></a>ER diagram file
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
