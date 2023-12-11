@@ -14,10 +14,10 @@ Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 # Table of Contents 
 - [Files](#Files) 
-- [In ER_diagram file](#ER) 
-- [ConversionDatabaseStructures file](#ConversionDatabaseStructures)
+- [In ER diagram file](#ER) 
+- [Conversion Database Structures file](#ConversionDatabaseStructures)
 - [Normalization](#Normalization)
-- [Database_diagram_finalOutput](#Database_diagram_finalOutput) 
+- [Database diagram final output](#Database_diagram_finalOutput) 
 - [DDL.sql](#DDL)
 - [SQL.sql](#SQL) 
 
