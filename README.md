@@ -9,7 +9,7 @@
 
 # Table of Contents 
 - [Files](#Files) 
-- [Team's Work](#Documentation) 
+- [In ER_diagram file](#ER) 
   * [Documentation Responsibilities](#Documentation-responsibilities)
   * [Implementation Responsibilities](#Implementation)
 - [.h Files](#h-Files) 
@@ -34,7 +34,7 @@ This file contains:
 
 
 
-
+## <a name = "ER" ></a>ER_diagram file
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
