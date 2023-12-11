@@ -19,6 +19,9 @@
 
 
 GitHub link: https://github.com/OsamahALQ/GroupProject3005
+
+
+
 Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 
@@ -29,7 +32,13 @@ This file contains:
 
 
 
-1- me
+1- ConversionDatabaseStructures.jpg
+2- ER_diagram.jpg
+3- Normalization.pdf
+4- Database_diagram_finalOutput.jpg
+5- DDL.sql
+6- Sql.sql
+7- README.txt
 
 
 
