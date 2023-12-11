@@ -1,7 +1,6 @@
 ## COMP 3005 Group Project
 
 # Members
-
 | Student name  | ID number |
 | ------------- | ------------- |
 | Osamah ALQahtaini | 101179283  |
