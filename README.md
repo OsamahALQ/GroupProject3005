@@ -10,11 +10,11 @@
 # Table of Contents 
 - [Files](#Files) 
 - [In ER_diagram file](#ER) 
-  * [ConversionDatabaseStructures file](#ConversionDatabaseStructures)
-  * [Implementation Responsibilities](#Implementation)
-- [.h Files](#h-Files) 
-- [.cpp Files](#cpp-Files)
-- [Test Scenario](#Test-Scenario) 
+- [ConversionDatabaseStructures file](#ConversionDatabaseStructures)
+- [Normalization](#Normalization)
+- [Database_diagram_finalOutput](#Database_diagram_finalOutput) 
+- [DDL.sql](#DDL)
+- [SQL.sql](#SQL) 
 
 
 
@@ -34,7 +34,7 @@ This file contains:
 
 
 
-## <a name = "ER" ></a>ER_diagram file
+## <a name = "ER_diagram file" ></a>ER
 In ER_diagram file:
 In this file we have created the entity relationship diagram for our database, explains the relationship 
 among the tables:
@@ -139,7 +139,7 @@ many members.
 
 
 
-## <a name = "ConversionDatabaseStructures" ></a>ConversionDatabaseStructures
+## <a name = "ConversionDatabaseStructures file" ></a>ConversionDatabaseStructures
 In ConversionDatabaseStructures file:
     In Conversion the database diagram, at first, we had to revise our ER model and the attributes of each 
 entity. We started by creating a table for each entity and list all of the attributes. After that we had to 
@@ -147,7 +147,7 @@ connect those table to show their connection.
 
 
 
-
+## <a name = "Normalization file" ></a>Normalization
 In Normalization file:
     At the start, we were creating the tables and populating them with attributes. We had to check if any of 
 our variables are multi values or a composite value. After that was done, we were able to confirm that we 
@@ -159,7 +159,7 @@ decomposed it by creating a new table  thus it became 3NF.
 
 
 
-
+## <a name = "Database_diagram_finalOutput file" ></a>Database_diagram_finalOutput
 In Database_diagram_finalOutput file:
     When it came to the Database Diagram after the Normalization, we had to check what tables were created 
 while we did the normalization to add them to our data base diagram. After that we had to add those tables 
@@ -168,7 +168,7 @@ original tables that we had.
 
 
 
-
+## <a name = "DDL.sql file" ></a>DDL
 In DDL file:
     at the beginning, we had to understand the requirement and identify the tables , attributes with their 
 data types and the relationship between them. Then we broke down the requirements into sections to clearly 
@@ -179,7 +179,7 @@ system. From registering the members to assign trainers to manage the gym throug
 
 
 
-
+## <a name = "SQL.sql file" ></a>SQL
 In SQL file:
     In this file we have made queries “insert, select, and update” to sign up members and let them enjoy the 
 gyms features also assign trainers and admins in the gym and we gave them their values, then we selected 
