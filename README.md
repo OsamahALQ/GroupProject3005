@@ -24,7 +24,7 @@ Video: https://youtu.be/68TgOxaM_HU?si=nyoNr6Fuex-NXdjc
 
 ## <a name = "Files" ></a>Files
 This file contains:
-    - ConversionDatabaseStructures.jpg
+1- ConversionDatabaseStructures.jpg
     - ER_diagram.jpg
     - Normalization.pdf
     - Database_diagram_finalOutput.jpg
