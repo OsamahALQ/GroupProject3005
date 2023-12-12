@@ -116,6 +116,14 @@ CREATE TABLE NOTES(
 	foreign key(dashboardID)references DASHBOARD(dashboardID) 
 );
 
+CREATE TABLE ADMINISTRATION(
+	ADMIN_ID SERIAL PRIMARY KEY,
+	email text,
+	first_name varchar(225),
+	last_name varchar(225),
+	department varchar(225),
+	phone text
+);
 
 CREATE TABLE EVENTS( 
 	event_id SERIAL PRIMARY KEY,
@@ -124,7 +132,7 @@ CREATE TABLE EVENTS(
 	status text,
 	amount int,
 	dashboardID int,
-	foreign key(dashboardID)references DASHBOARD(dashboardID)
+	foreign key(ADMIN_ID)references ADMINISTRATION(ADMIN_ID)
 );
 
 CREATE TABLE BOOKED_EVENTS(
@@ -134,17 +142,8 @@ CREATE TABLE BOOKED_EVENTS(
 	BETime TIME,
 	BELocation varchar(225),
 	event_id int,
-	foreign key(event_id)references EVENTS(event_id) 
-);
-
-
-CREATE TABLE ADMINISTRATION(
-	ADMIN_ID SERIAL PRIMARY KEY,
-	email text,
-	first_name varchar(225),
-	last_name varchar(225),
-	department varchar(225),
-	phone text
+	foreign key(event_id)references EVENTS(event_id),
+	foreign key(dashboardID)references DASHBOARD(dashboardID) 
 );
 
 CREATE TABLE LOYALITY_PROGRAM(
