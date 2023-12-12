@@ -162,7 +162,7 @@ CREATE TABLE REDEMPTION(
 	date_reward DATE,
 	programID int,
 	member_id int,
-	foreign key(dashboardID)references MEMBER_PROFILE(dashboardID),
+	foreign key(dashboardID)references DASHBOARD(dashboardID),
 	foreign key(programID)references LOYALITY_PROGRAM(programID)
 );
 
