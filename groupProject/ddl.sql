@@ -175,7 +175,7 @@ CREATE TABLE BILLINGS(
 	ADMIN_ID int,
 	member_id int,
 	foreign key(ADMIN_ID)references ADMINISTRATION(ADMIN_ID),
-	foreign key(dashboardID)references MEMBER_PROFILE(dashboardID)
+	foreign key(dashboardID)references DASHBOARD(dashboardID)
 );
 
 CREATE TABLE MANAGE_ROOMS(
